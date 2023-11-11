@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Philosopher:ital@1&display=swap');
+/* ----------------------------------- primerBloque */
+
+.primerBloque {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(234, 228, 228);
+}
+
+
+/* ------------------------------- colores bloques */
+
+.red {
+    font-size: 20px;
+    font-family: 'Amiri', serif !important;
+    border: solid 4px burlywood;
+    padding: 30px !important;
+    background-color: rgb(57, 53, 53);
+    color: white;
+    opacity: 50%; 
+    transition: opacity 1s;
+}
+
+.purple {
+    font-size: 20px;
+    font-family: 'Amiri', serif !important;
+    border: solid 4px burlywood;
+    padding: 15px;
+    background-color: rgb(57, 53, 53);
+    color: white;
+    opacity: 50%; 
+    transition: opacity 1s;
+}
+
+.grey {
+    font-size: 20px;
+    font-family: 'Amiri', serif !important;
+    border: solid 4px burlywood;
+    padding: 15px;
+    background-color: rgb(57, 53, 53);
+    color: white;
+    opacity: 50%; 
+    transition: opacity 1s;
+}
+
+.green {
+    font-size: 20px;
+    font-family: 'Amiri', serif !important;
+    border: solid 4px burlywood;
+    padding: 15px;
+    background-color: rgb(57, 53, 53);
+    color: white;
+    opacity: 50%; 
+    transition: opacity 1s;
+}
+
+.white {
+    font-size: 20px;
+    font-family: 'Amiri', serif !important;
+    border: solid 4px burlywood;
+    padding: 15px;
+    background-color: rgb(57, 53, 53);
+    color: white;
+    opacity: 50%; 
+    transition: opacity 1s;
+}
+
+
+/* --------------------- opacidades */
+
+.red:hover {
+    opacity: 100%;
+    font-weight: 700;
+}
+
+.purple:hover {
+    opacity: 100%;
+    font-weight: 700;
+}
+
+.grey:hover {
+    opacity: 100%;
+    font-weight: 700;
+}
+
+.white:hover {
+    opacity: 100%;
+    font-weight: 700;
+}
+
+.green:hover {
+    opacity: 100%;
+    font-weight: 700;
+}
+
+
+/* tabla */
+
+.tabla {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+/* -------------------- pie */
+
+footer {
+    color: white;
+    text-align: center;
+    background-color: grey;
+}
+
+.titulo {
+    font-weight: bold;
+    text-align: end;
+}
+
+span {
+    font-weight: bold;
+}
+
+.concurso {
+    font-weight: bold;
+}
+
+
+.miparrafo{
+    font-size: 20px;
+    font-family: 'Grape Nuts', cursive !important;
+    border: solid 4px burlywood;
+    padding: 15px;
+    background-color: rgb(57, 53, 53);
+    color: white;
+}
+
+.parrafo2{
+    font-size: 20px;
+    font-family: 'Grape Nuts', cursive !important;
+    border: solid 4px burlywood;
+    padding: 15px;
+    background-color: rgb(57, 53, 53);
+    color: white;
+}
+
+#fecha1, #fecha2, #fecha3, #fecha4{
+    color: red !important;
+}
+
+#tituloBloque1, #tituloBloque2, #tituloBloque3, #tituloBloque4{
+   font-size: 50px;
+}
+
+/*-------------logo footer*/
+.foto1{
+    float: left;
+    width: 175px;
+    padding: 20px;
+
+}
+
+.foto2{
+    float: right;
+    width: 106px;
+    padding: 20px;
+}
+
+.foto3{
+    float: right;
+    margin: 1% 0% 0% 0%;
+    width: 106px;
+    padding: 20px;
+}
+
+.direccion{
+    color: black;
+}
